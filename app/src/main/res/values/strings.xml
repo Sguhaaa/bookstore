@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Твоя Библиотека</string>
+    <string name="title_home">Новые книги</string>
+    <string name="title_dashboard">Найти книгу</string>
+    <string name="title_notifications">Полка</string>
+    <string name="book_title">title</string>
+    <string name="book_subtitle">subtitle</string>
+    <string name="authors">authors</string>
+    <string name="about_book">about book</string>
+    <string name="find_more">find more</string>
+    <string name="hello_blank_fragment">Давайте найдем книгу по названию, автору или описанию</string>
+    <string name="search_btn">Поиск</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="login_btn">LOG IN</string>
+    <string name="wrong_input_textview">Wrong login or password</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="email">email</string>
+    <string name="logout">Покинуть библиотеку</string>
+    <string name="delete_from_favourites">УДАЛИТЬ КНИГУ ИЗ БИБЛИОТЕКИ</string>
+    <string name="add_to_favourites">СКОПИРОВАТЬ КНИГУ В БИБЛИОТЕКУ</string>
+    <string name="book_image">Book image</string>
+    <string name="_10_00">10.00$</string>
+</resources>
